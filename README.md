@@ -1,7 +1,7 @@
 # ArrayList Quiz
 
 ## Overview
-This 45-minute quiz tests your understanding of ArrayList operations in Java. You will implement a student records system that manages parallel ArrayLists of student names and grades.
+This quiz tests your understanding of ArrayList operations in Java. You will implement a student records system that manages parallel ArrayLists of student names and grades.
 
 ## Instructions
 1. You have 45 minutes to complete this quiz
